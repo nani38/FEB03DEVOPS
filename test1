@@ -1,4 +1,12 @@
 #THIS IS TEST1
 THIS LINE IS EDITED BY TEST1
+new line from test1
+<<<<<<< HEAD
+additional line add by test1
+=======
 THIS LINE IS EDITED BY TEST2
+<<<<<<< HEAD
 #chgggdjhgtfjhghggkjhjhhfhg
+=======
+>>>>>>> d48a9615a11307d061a114f00f21d9c159d5f987
+>>>>>>> 169b18c7797dd270a5d8ddfbc88e2e93e4dc498e
